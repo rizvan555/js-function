@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+form {
+  display: flex;
+  width: 200px;
+  gap: 10px;
+  flex-direction: column;
+  justify-content: start;
+}
+button {
+  width: 90px;
+}
